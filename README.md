@@ -10,9 +10,9 @@ If you actually understand python you can change everything/anything, even make 
 There is NO protection from any user in your server from using this bot, so if you want to use it please add some sort of requirement to use the bots commands.
 In my use case its a server with other developers in which I trust so I didn't add it.
 
-You need: 
-Python (3)
-Pip
+You need: <br>
+Python (3)<br>
+Pip<br>
 py-cord (pip install py-cord) 
 
 might need something else but i forgot
